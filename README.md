@@ -26,7 +26,7 @@ _Добро пожаловать :tada:!_
 > В таблицах находятся формулы, вы можете проверить их наличие, нажав на ячейку.
 
 
- [Не рикролл]((https://www.youtube.com/watch?v=dQw4w9WgXcQ))
+ [Не рикролл](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <footer>
 
